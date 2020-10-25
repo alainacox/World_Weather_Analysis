@@ -1,0 +1,593 @@
+,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Kapaa,US,10/25/2020 1:59,22.08,-159.32,84.2,66,20,12.75,few clouds
+1,Chuy,UY,10/25/2020 2:03,-33.7,-53.46,61.47,97,9,4.09,clear sky
+2,Mataura,NZ,10/25/2020 2:00,-46.19,168.86,73.31,46,100,14.12,moderate rain
+3,Mar Del Plata,AR,10/25/2020 2:01,-38,-57.56,61,100,90,5.82,overcast clouds
+4,Leningradskiy,RU,10/25/2020 2:03,69.38,178.42,23.86,92,0,9.4,clear sky
+5,Tuktoyaktuk,CA,10/25/2020 2:03,69.45,-133.04,23,79,75,12.75,broken clouds
+6,Safford,US,10/25/2020 2:03,32.83,-109.71,78.8,22,1,3.36,clear sky
+7,Rundu,NA,10/25/2020 2:02,-17.93,19.77,68.61,28,32,3.2,scattered clouds
+8,Puerto Ayora,EC,10/25/2020 2:03,-0.74,-90.35,66.99,97,100,8.01,overcast clouds
+9,Upernavik,GL,10/25/2020 2:03,72.79,-56.15,21.85,93,88,7.7,overcast clouds
+10,Cape Town,ZA,10/25/2020 2:00,-33.93,18.42,62.01,82,40,2.24,scattered clouds
+11,Ilyich,KZ,10/25/2020 2:03,40.85,68.51,40.26,67,0,3.11,clear sky
+12,New Norfolk,AU,10/25/2020 2:03,-42.78,147.06,57.99,44,75,1.01,broken clouds
+13,Bethel,US,10/25/2020 2:03,41.37,-73.41,46.99,78,38,1.99,scattered clouds
+14,Punta Arenas,CL,10/25/2020 2:02,-53.15,-70.92,42.8,93,90,13.87,overcast clouds
+15,Hermanus,ZA,10/25/2020 2:03,-34.42,19.23,61,84,37,1.01,scattered clouds
+16,Port Alfred,ZA,10/25/2020 2:03,-33.59,26.89,65.17,90,1,7.18,clear sky
+17,Saint-Pierre,RE,10/25/2020 2:03,-21.34,55.48,68,49,0,6.93,clear sky
+18,Busselton,AU,10/25/2020 2:03,-33.65,115.33,72,48,62,4,broken clouds
+19,Fairbanks,US,10/25/2020 2:00,64.84,-147.72,28.99,79,40,1.9,scattered clouds
+20,Hilo,US,10/25/2020 2:03,19.73,-155.09,84.2,66,20,16.11,few clouds
+21,Severo-Kurilsk,RU,10/25/2020 2:03,50.68,156.12,48.13,90,100,3.78,overcast clouds
+22,College,US,10/25/2020 2:03,64.86,-147.8,28.99,73,75,4.7,broken clouds
+23,Avarua,CK,10/25/2020 2:03,-21.21,-159.78,75.2,73,37,16.11,scattered clouds
+24,Muros,ES,10/25/2020 2:03,42.78,-9.06,57.99,96,100,10,overcast clouds
+25,Hithadhoo,MV,10/25/2020 2:01,-0.6,73.08,83.28,73,40,8.57,scattered clouds
+26,Ribeira Grande,PT,10/25/2020 2:03,38.52,-28.7,66.07,78,100,14.14,overcast clouds
+27,Rikitea,PF,10/25/2020 2:03,-23.12,-134.97,74.89,81,99,20.58,overcast clouds
+28,Honiara,SB,10/25/2020 2:03,-9.43,159.95,87.8,70,20,9.17,few clouds
+29,Esperance,AU,10/25/2020 2:00,-33.87,121.9,64.4,52,0,13.87,clear sky
+30,Koltubanovskiy,RU,10/25/2020 2:03,52.94,52.03,44.2,88,100,4.52,overcast clouds
+31,Nouadhibou,MR,10/25/2020 2:03,20.93,-17.03,73.4,69,0,19.46,clear sky
+32,Chester,US,10/25/2020 2:03,40.13,-75.87,51.01,71,1,12.75,clear sky
+33,Oranjemund,NA,10/25/2020 2:03,-28.55,16.43,58.84,93,95,11.41,overcast clouds
+34,Jamestown,US,10/25/2020 2:03,42.1,-79.24,41,86,90,3.36,overcast clouds
+35,Ponta Do Sol,PT,10/25/2020 2:03,32.67,-17.1,64.4,72,20,6.93,few clouds
+36,Bredasdorp,ZA,10/25/2020 2:03,-34.53,20.04,62.6,77,15,8.05,few clouds
+37,Bluff,NZ,10/25/2020 2:00,-46.6,168.33,54.45,84,93,20.2,light rain
+38,Tasiilaq,GL,10/25/2020 2:03,65.61,-37.64,33.8,69,79,5.82,broken clouds
+39,Beringovskiy,RU,10/25/2020 2:03,63.05,179.32,31.44,95,99,13.78,overcast clouds
+40,Lompoc,US,10/25/2020 1:59,34.64,-120.46,64.4,68,90,5.82,overcast clouds
+41,Hobart,AU,10/25/2020 2:00,-42.88,147.33,55,43,40,12.75,scattered clouds
+42,Klaksvik,FO,10/25/2020 2:03,62.23,-6.59,46.4,81,100,20.8,light rain
+43,Adrar,MR,10/25/2020 2:03,20.5,-10.07,86.77,13,95,6.96,overcast clouds
+44,Albany,US,10/25/2020 1:59,42.6,-73.97,46.99,68,61,1.99,broken clouds
+45,Bambous Virieux,MU,10/25/2020 2:03,-20.34,57.76,69.8,94,75,16.11,light intensity shower rain
+46,Minot,US,10/25/2020 2:00,48.23,-101.3,23,62,90,9.17,overcast clouds
+47,Port Blair,IN,10/25/2020 2:03,11.67,92.75,83.07,72,67,0.58,broken clouds
+48,Tres Arroyos,AR,10/25/2020 2:03,-38.37,-60.28,57.18,94,0,9.31,clear sky
+49,Yellowknife,CA,10/25/2020 2:00,62.46,-114.35,24.01,67,75,3.36,broken clouds
+50,Englewood,US,10/25/2020 2:01,39.65,-104.99,42.01,49,48,1.01,scattered clouds
+51,Sumenep,ID,10/25/2020 2:04,-7.02,113.87,87.19,59,84,5.99,broken clouds
+52,Victoria,HK,10/25/2020 2:00,22.29,114.16,77,63,99,1.99,overcast clouds
+53,Kruisfontein,ZA,10/25/2020 2:04,-34,24.73,57.99,91,0,5.84,clear sky
+54,Jiazi,CN,10/25/2020 2:04,22.88,116.07,73,60,75,18.61,broken clouds
+55,Atuona,PF,10/25/2020 2:04,-9.8,-139.03,78.49,76,30,19.6,light rain
+56,Georgetown,MY,10/25/2020 2:04,5.41,100.34,84.2,83,20,7.16,few clouds
+57,Hue,VN,10/25/2020 2:04,16.47,107.6,68,94,75,11.41,moderate rain
+58,Apiai,BR,10/25/2020 2:04,-24.51,-48.84,60.84,100,91,1.81,light rain
+59,Torbay,CA,10/25/2020 2:00,47.67,-52.73,50,100,90,24.16,moderate rain
+60,Namibe,AO,10/25/2020 2:02,-15.2,12.15,67.55,82,81,4.56,broken clouds
+61,Acapulco,MX,10/25/2020 2:01,16.86,-99.89,84.2,79,40,8.05,scattered clouds
+62,Ushuaia,AR,10/25/2020 2:04,-54.8,-68.3,44.6,70,75,12.75,broken clouds
+63,Rawson,AR,10/25/2020 2:04,-43.3,-65.1,58.35,59,55,11.77,broken clouds
+64,Souillac,MU,10/25/2020 2:04,-20.52,57.52,69.8,94,75,16.11,light intensity shower rain
+65,Zhigansk,RU,10/25/2020 2:04,66.77,123.37,20.48,97,100,20.51,light snow
+66,Soe,ID,10/25/2020 2:04,-9.86,124.28,89.08,37,37,4.43,scattered clouds
+67,Komsomolskiy,UZ,10/25/2020 2:04,40.43,71.72,39.2,64,91,6.93,overcast clouds
+68,Mankono,CI,10/25/2020 2:04,8.06,-6.19,71.64,81,61,1.32,broken clouds
+69,Butaritari,KI,10/25/2020 2:01,3.07,172.79,81.05,69,83,7.52,broken clouds
+70,Eureka,US,10/25/2020 2:02,40.8,-124.16,53.6,76,90,8.05,overcast clouds
+71,Lebu,CL,10/25/2020 2:04,-37.62,-73.65,48.63,81,0,4.12,clear sky
+72,Ixtapa,MX,10/25/2020 2:00,20.7,-105.2,86,79,90,4.7,overcast clouds
+73,Kokopo,PG,10/25/2020 2:04,-4.35,152.26,84.96,69,18,7.23,light rain
+74,Provideniya,RU,10/25/2020 2:00,64.38,-173.3,34.56,87,91,11.03,overcast clouds
+75,Inhambane,MZ,10/25/2020 2:01,-23.86,35.38,72.23,84,77,7.9,broken clouds
+76,Sistranda,NO,10/25/2020 2:04,63.73,8.83,44.6,65,0,12.75,clear sky
+77,Iranshahr,IR,10/25/2020 2:04,27.2,60.68,54.86,37,0,3.31,clear sky
+78,Geraldton,AU,10/25/2020 2:01,-28.77,114.6,91.4,15,0,19.46,clear sky
+79,Boca Do Acre,BR,10/25/2020 2:04,-8.75,-67.4,75.67,92,100,1.16,moderate rain
+80,Qaanaaq,GL,10/25/2020 2:04,77.48,-69.36,17.46,92,100,12.86,overcast clouds
+81,Novopokrovka,UA,10/25/2020 2:04,49.84,36.55,48.2,93,0,8.95,mist
+82,Marfino,RU,10/25/2020 2:04,55.7,37.38,46,87,90,8.95,overcast clouds
+83,Jalu,LY,10/25/2020 2:04,29.03,21.55,61.52,80,0,6.04,clear sky
+84,Evensk,RU,10/25/2020 2:04,61.95,159.23,34.92,84,100,11.92,overcast clouds
+85,Carnarvon,AU,10/25/2020 2:04,-24.87,113.63,75.2,73,90,17.22,overcast clouds
+86,Nalobikha,RU,10/25/2020 2:04,53.2,84.6,26.87,83,0,8.46,clear sky
+87,Pokaran,IN,10/25/2020 2:04,26.92,71.92,75.6,29,0,6.8,clear sky
+88,Talcahuano,CL,10/25/2020 2:04,-36.72,-73.12,51.8,93,75,2.24,broken clouds
+89,Nellikkuppam,IN,10/25/2020 2:04,11.77,79.68,79.79,78,100,4.07,overcast clouds
+90,Hambantota,LK,10/25/2020 2:04,6.12,81.12,78.8,88,20,3.36,few clouds
+91,Batemans Bay,AU,10/25/2020 2:04,-35.72,150.18,57,72,100,3,light rain
+92,Malartic,CA,10/25/2020 2:00,48.13,-78.13,26.01,92,40,3.36,scattered clouds
+93,Moerai,PF,10/25/2020 2:04,-22.43,-151.33,72.84,78,93,25.17,light rain
+94,Zapolyarnyy,RU,10/25/2020 2:04,69.42,30.81,35.6,98,96,23.04,overcast clouds
+95,Deputatskiy,RU,10/25/2020 2:04,69.3,139.9,7.41,91,0,6.78,clear sky
+96,Cotonou,BJ,10/25/2020 2:03,6.37,2.42,80.6,88,20,11.41,few clouds
+97,Castro,BR,10/25/2020 2:04,-24.79,-50.01,61.99,92,98,1.92,overcast clouds
+98,Acarau,BR,10/25/2020 2:04,-2.89,-40.12,78.98,83,0,14.32,clear sky
+99,Westport,US,10/25/2020 2:03,41.14,-73.36,52,78,57,12.24,broken clouds
+100,Tura,IN,10/25/2020 2:00,25.52,90.22,73.45,96,46,4.34,scattered clouds
+101,Port Macquarie,AU,10/25/2020 2:04,-31.43,152.92,68,83,76,4,broken clouds
+102,Arraial Do Cabo,BR,10/25/2020 2:04,-22.97,-42.03,70.2,93,100,21.7,moderate rain
+103,Salalah,OM,10/25/2020 2:04,17.02,54.09,71.6,46,0,3.36,clear sky
+104,Hobyo,SO,10/25/2020 2:04,5.35,48.53,79.14,80,98,3.98,overcast clouds
+105,Manzanillo,CU,10/25/2020 2:00,20.34,-77.12,77.9,82,100,2.77,light rain
+106,Saint-Philippe,RE,10/25/2020 2:04,-21.36,55.77,71.6,49,0,6.93,clear sky
+107,Barrow,US,10/25/2020 2:00,71.29,-156.79,32,96,90,11.41,overcast clouds
+108,Kenai,US,10/25/2020 2:04,60.55,-151.26,48.2,70,90,8.05,overcast clouds
+109,Kahului,US,10/25/2020 2:02,20.89,-156.47,91.4,49,40,13.87,scattered clouds
+110,Caravelas,BR,10/25/2020 2:04,-17.71,-39.25,75.63,86,100,7.54,overcast clouds
+111,Manaure,CO,10/25/2020 2:04,11.78,-72.44,82.09,80,100,7.25,overcast clouds
+112,Saint-Joseph,RE,10/25/2020 2:04,-21.37,55.62,68,49,0,6.93,clear sky
+113,Ostrovnoy,RU,10/25/2020 2:04,68.05,39.51,31.46,97,100,12.62,overcast clouds
+114,Vega De Alatorre,MX,10/25/2020 2:04,20.03,-96.63,77.58,83,13,7.07,light rain
+115,Catamarca,AR,10/25/2020 2:00,-28.47,-65.79,84,67,3,7,light rain
+116,Husavik,IS,10/25/2020 2:04,66.04,-17.34,41,80,90,20.8,drizzle
+117,Kodiak,US,10/25/2020 2:04,57.79,-152.41,44.6,93,90,3.36,overcast clouds
+118,Pevek,RU,10/25/2020 2:04,69.7,170.31,28.54,90,0,16.46,clear sky
+119,Pucara,PE,10/25/2020 2:04,-15.98,-71.46,41.05,62,100,6.38,overcast clouds
+120,Margate,GB,10/25/2020 2:04,51.38,1.39,53.01,66,100,7,moderate rain
+121,Matay,EG,10/25/2020 2:04,28.42,30.78,64.31,62,0,6.96,clear sky
+122,Saskylakh,RU,10/25/2020 2:00,71.92,114.08,11.66,94,100,18.86,overcast clouds
+123,Shilong,CN,10/25/2020 2:04,23.11,113.84,75.2,50,75,8.95,broken clouds
+124,Mahebourg,MU,10/25/2020 2:01,-20.41,57.7,69.8,94,75,16.11,light intensity shower rain
+125,Zyryanka,RU,10/25/2020 2:04,65.75,150.85,21.02,94,0,7.56,clear sky
+126,Mnogovershinnyy,RU,10/25/2020 2:04,53.94,139.92,37.54,99,100,17.38,light rain
+127,Mount Gambier,AU,10/25/2020 2:04,-37.83,140.77,55.4,54,90,24.16,overcast clouds
+128,Linqiong,CN,10/25/2020 2:02,30.42,103.46,68,88,40,2.24,mist
+129,Bosaso,SO,10/25/2020 2:04,11.28,49.18,77.02,48,100,5.7,overcast clouds
+130,Tazmalt,DZ,10/25/2020 2:04,36.39,4.4,58.21,70,0,2.28,clear sky
+131,Laem Sing,TH,10/25/2020 2:04,12.48,102.07,84.99,65,82,8.23,broken clouds
+132,Ardesen,TR,10/25/2020 2:04,41.19,40.99,59,54,0,25.28,clear sky
+133,Vardo,NO,10/25/2020 2:04,70.37,31.11,39.07,74,100,18.37,overcast clouds
+134,Ugoofaaru,MV,10/25/2020 2:04,5.67,73,83.46,73,100,11.39,light rain
+135,Chissamba,AO,10/25/2020 2:04,-12.17,17.33,67.19,70,100,2.53,overcast clouds
+136,Dikson,RU,10/25/2020 2:04,73.51,80.55,21.97,92,42,5.26,scattered clouds
+137,Aljezur,PT,10/25/2020 2:04,37.32,-8.8,59.58,84,2,6.42,clear sky
+138,Sebina,BW,10/25/2020 2:04,-20.87,27.25,69.35,38,0,7.9,clear sky
+139,Palizada,MX,10/25/2020 2:04,18.25,-92.08,74.89,97,100,4.12,overcast clouds
+140,Nabari,JP,10/25/2020 2:04,34.62,136.08,68,45,20,11.41,few clouds
+141,Airai,TL,10/25/2020 2:00,-8.93,125.41,79.83,50,82,1.39,broken clouds
+142,Vaini,TO,10/25/2020 2:00,-21.2,-175.2,75.2,88,75,11.41,broken clouds
+143,Quatre Cocos,MU,10/25/2020 2:04,-20.21,57.76,69.8,94,75,16.11,light intensity shower rain
+144,Kabalo,CD,10/25/2020 2:04,-6.05,26.92,68.86,91,57,1.12,broken clouds
+145,Winslow,US,10/25/2020 1:59,35.02,-110.7,69.8,30,1,6.93,clear sky
+146,Tuatapere,NZ,10/25/2020 2:04,-46.13,167.68,62.6,68,100,11.05,overcast clouds
+147,Atascadero,US,10/25/2020 2:04,35.49,-120.67,59,80,28,1.01,scattered clouds
+148,Samfya,ZM,10/25/2020 2:04,-11.36,29.56,68.85,40,100,6.2,overcast clouds
+149,Doume,CM,10/25/2020 2:04,4.23,13.45,68.58,96,100,2.15,moderate rain
+150,Aklavik,CA,10/25/2020 2:01,68.22,-135.01,24.8,62,40,5.82,scattered clouds
+151,Qingquan,CN,10/25/2020 2:04,30.45,115.26,60.01,66,100,2.68,overcast clouds
+152,Madison,US,10/25/2020 2:02,34.73,-86.57,57.99,93,90,5.82,overcast clouds
+153,Key West,US,10/25/2020 2:00,24.56,-81.78,84.2,88,90,16.11,mist
+154,Lorengau,PG,10/25/2020 2:04,-2.02,147.27,86.29,60,44,6.87,scattered clouds
+155,Narsaq,GL,10/25/2020 2:04,60.92,-46.05,26.6,68,100,1.12,overcast clouds
+156,Faya,SA,10/25/2020 2:01,18.39,42.45,59,22,0,2.26,clear sky
+157,Coihaique,CL,10/25/2020 2:04,-45.58,-72.07,46.4,70,0,4.7,clear sky
+158,Cabo San Lucas,MX,10/25/2020 2:04,22.89,-109.91,84.2,58,5,9.93,clear sky
+159,Russell,US,10/25/2020 2:00,32.35,-85.2,68,100,1,2.75,mist
+160,Port Hedland,AU,10/25/2020 2:04,-20.32,118.57,80.6,57,0,11.41,clear sky
+161,Danilovka,RU,10/25/2020 2:04,50.36,44.12,54.14,92,100,7.43,overcast clouds
+162,Pangnirtung,CA,10/25/2020 2:04,66.15,-65.71,16.61,86,83,5.44,broken clouds
+163,Fortuna,US,10/25/2020 2:03,40.6,-124.16,52,87,90,6.93,overcast clouds
+164,Guadalupe Y Calvo,MX,10/25/2020 2:04,26.1,-106.97,54.05,77,0,1.63,clear sky
+165,Sadovoye,RU,10/25/2020 2:04,47.78,44.51,55.8,90,100,10.56,overcast clouds
+166,Ilulissat,GL,10/25/2020 2:04,69.22,-51.1,19.4,57,5,13.87,clear sky
+167,Garden City,US,10/25/2020 2:04,42.33,-83.33,44.01,60,75,5.82,broken clouds
+168,Macouria,GF,10/25/2020 2:04,4.92,-52.37,80.6,83,20,2.24,few clouds
+169,Suntar,RU,10/25/2020 2:04,62.14,117.63,27.79,96,95,3.27,overcast clouds
+170,Rocha,UY,10/25/2020 2:02,-34.48,-54.33,58.87,97,23,4.47,few clouds
+171,Mareeba,AU,10/25/2020 2:04,-17,145.43,88,58,29,9.17,scattered clouds
+172,Rondonopolis,BR,10/25/2020 2:02,-16.47,-54.64,77.07,80,72,3.78,broken clouds
+173,Faanui,PF,10/25/2020 2:04,-16.48,-151.75,79.23,77,97,11.81,moderate rain
+174,Ayaviri,PE,10/25/2020 2:04,-14.89,-70.59,46.38,63,99,6.26,overcast clouds
+175,Lahij,YE,10/25/2020 2:04,13.17,44.58,73.81,52,0,3.09,clear sky
+176,Thompson,CA,10/25/2020 2:03,55.74,-97.86,19.4,92,75,5.82,light snow
+177,Banjar,ID,10/25/2020 2:04,-8.19,114.97,86,74,40,6.93,scattered clouds
+178,Saint-Leu,RE,10/25/2020 2:04,-21.15,55.28,71.6,49,0,6.93,clear sky
+179,Daru,PG,10/25/2020 2:04,-9.08,143.21,84.38,70,81,8.72,broken clouds
+180,Kurumkan,RU,10/25/2020 2:04,54.3,110.3,36.93,71,100,2.57,overcast clouds
+181,Varzea Da Palma,BR,10/25/2020 1:59,-17.6,-44.73,67.77,92,100,1.86,overcast clouds
+182,Bengkulu,ID,10/25/2020 2:04,-3.8,102.27,83.46,66,100,1.83,overcast clouds
+183,Peleduy,RU,10/25/2020 2:04,59.63,112.74,34.43,90,100,5.19,overcast clouds
+184,Tabou,CI,10/25/2020 2:04,4.42,-7.35,77.22,88,50,5.48,scattered clouds
+185,Bonthe,SL,10/25/2020 2:04,7.53,-12.51,77.47,84,99,3.58,light rain
+186,Lavrentiya,RU,10/25/2020 2:04,65.58,-171,34.32,87,0,8.77,clear sky
+187,Saint George,US,10/25/2020 2:04,37.1,-113.58,75.2,31,66,1.01,broken clouds
+188,Boa Vista,BR,10/25/2020 2:04,2.82,-60.67,86,55,0,9.17,clear sky
+189,Katsuura,JP,10/25/2020 2:04,35.13,140.3,68,39,20,12.75,few clouds
+190,Bud,US,10/25/2020 2:04,39.45,-86.18,46.99,65,90,9.17,overcast clouds
+191,Zheleznodorozhnyy,RU,10/25/2020 2:01,55.75,38,46.4,87,75,4.47,broken clouds
+192,Mitchell,US,10/25/2020 2:04,43.71,-98.03,24.8,92,90,9.17,mist
+193,Sur,OM,10/25/2020 2:04,22.57,59.53,76.98,50,0,12.57,clear sky
+194,Kalga,RU,10/25/2020 2:02,50.93,118.9,39.13,69,74,3.58,broken clouds
+195,Hami,CN,10/25/2020 2:04,42.8,93.45,47.77,49,0,8.66,clear sky
+196,Tiksi,RU,10/25/2020 2:04,71.69,128.87,9.88,91,100,26.89,overcast clouds
+197,Warangal,IN,10/25/2020 2:04,18,79.58,76.82,73,2,1.52,clear sky
+198,Sinnar,SD,10/25/2020 2:04,13.57,33.57,85.48,22,13,8.99,few clouds
+199,Magadan,RU,10/25/2020 2:04,59.57,150.8,39.47,79,100,14.14,overcast clouds
+200,Nyaunglebin,MM,10/25/2020 2:04,17.95,96.73,79.7,85,88,0.85,overcast clouds
+201,Tucurui,BR,10/25/2020 2:02,-3.77,-49.67,80.24,63,24,3.02,few clouds
+202,Toktogul,KG,10/25/2020 2:04,41.87,72.94,44.98,55,92,0.16,overcast clouds
+203,Muana,BR,10/25/2020 2:04,-1.53,-49.22,78.89,80,1,6.71,clear sky
+204,Moroni,KM,10/25/2020 2:04,-11.7,43.26,76.95,73,2,6.4,clear sky
+205,Hamilton,US,10/25/2020 2:04,39.18,-84.53,46.99,75,40,5.82,scattered clouds
+206,Paramonga,PE,10/25/2020 2:03,-10.67,-77.83,62.08,85,88,6.55,overcast clouds
+207,Cidreira,BR,10/25/2020 2:04,-30.18,-50.21,68.54,92,8,16.31,clear sky
+208,Kushima,JP,10/25/2020 2:04,31.46,131.23,64.4,39,0,8.05,clear sky
+209,Aiken,US,10/25/2020 2:04,33.58,-81.6,72,78,1,4.7,clear sky
+210,East London,ZA,10/25/2020 2:04,-33.02,27.91,68.54,89,14,4.43,few clouds
+211,Hendek,TR,10/25/2020 2:04,40.8,30.75,53.6,100,90,1.12,fog
+212,Kavaratti,IN,10/25/2020 2:04,10.57,72.64,81.73,69,0,6.62,clear sky
+213,Lakes Entrance,AU,10/25/2020 2:04,-37.88,147.98,54,93,99,8.01,light rain
+214,Haines Junction,CA,10/25/2020 2:04,60.75,-137.51,25.47,76,100,0.94,overcast clouds
+215,Dakar,SN,10/25/2020 2:02,14.69,-17.44,78.8,94,0,8.05,clear sky
+216,Panzhihua,CN,10/25/2020 2:04,26.59,101.71,65.12,64,99,0.38,overcast clouds
+217,Talikota,IN,10/25/2020 2:04,16.48,76.32,75.4,81,0,5.14,clear sky
+218,Khatanga,RU,10/25/2020 2:04,71.97,102.5,6.82,95,100,14.07,light snow
+219,Champerico,GT,10/25/2020 2:02,14.3,-91.92,69.01,96,29,4.52,scattered clouds
+220,Olinda,BR,10/25/2020 2:04,-8.01,-34.86,80.6,78,75,8.05,broken clouds
+221,Watsa,CD,10/25/2020 2:02,3.04,29.54,63.27,99,100,1.79,overcast clouds
+222,Chokurdakh,RU,10/25/2020 2:04,70.63,147.92,14.05,97,43,7.43,scattered clouds
+223,San Ramon,US,10/25/2020 2:00,37.78,-121.98,62.6,67,1,16.11,clear sky
+224,Trinidad,BO,10/25/2020 2:01,-14.83,-64.9,86.74,50,100,3.56,overcast clouds
+225,Rio Gallegos,AR,10/25/2020 2:01,-51.62,-69.22,44.6,93,90,6.93,overcast clouds
+226,Oranjestad,AW,10/25/2020 2:04,12.52,-70.03,84.2,79,20,18.34,few clouds
+227,Tanout,NE,10/25/2020 2:04,14.97,8.89,77.22,17,19,12.15,few clouds
+228,Shitanjing,CN,10/25/2020 2:04,39.23,106.34,51.76,44,100,3.09,overcast clouds
+229,Sierpc,PL,10/25/2020 2:04,52.86,19.67,49.01,93,18,6.62,few clouds
+230,Strezhevoy,RU,10/25/2020 2:04,60.73,77.59,23,85,0,11.18,clear sky
+231,Mbanza-Ngungu,CD,10/25/2020 2:04,-5.25,14.87,69.85,98,100,4.45,light rain
+232,Srednekolymsk,RU,10/25/2020 2:04,67.45,153.68,18.19,95,0,5.64,clear sky
+233,Mastung,PK,10/25/2020 2:01,29.8,66.84,41.09,60,0,1.97,clear sky
+234,Mount Isa,AU,10/25/2020 2:00,-20.73,139.5,80.6,32,0,12.75,clear sky
+235,Plettenberg Bay,ZA,10/25/2020 2:04,-34.05,23.37,61.43,90,2,6.51,clear sky
+236,Alofi,NU,10/25/2020 2:04,-19.06,-169.92,82.4,69,91,19.46,overcast clouds
+237,Sao Filipe,CV,10/25/2020 2:02,14.9,-24.5,81.39,71,100,6.35,overcast clouds
+238,Santiago Del Estero,AR,10/25/2020 2:03,-27.8,-64.26,84.76,52,81,7.74,broken clouds
+239,Khuzdar,PK,10/25/2020 2:01,27.74,66.64,54.1,37,0,5.61,clear sky
+240,Sulangan,PH,10/25/2020 2:04,11.14,123.72,81.99,80,100,16.53,heavy intensity rain
+241,Makakilo City,US,10/25/2020 2:00,21.35,-158.09,84.2,70,1,6.93,clear sky
+242,Lagoa,PT,10/25/2020 2:03,39.05,-27.98,64.71,72,89,17.6,overcast clouds
+243,Shahreza,IR,10/25/2020 2:04,32.03,51.88,40.42,69,0,2.75,clear sky
+244,Bereda,ES,10/25/2020 2:04,43.27,-7.54,57.99,100,100,17,light rain
+245,Orlik,RU,10/25/2020 2:04,52.52,99.83,23.88,91,100,8.68,light snow
+246,Montepuez,MZ,10/25/2020 2:04,-13.13,39,69.31,86,29,2.89,scattered clouds
+247,Chapais,CA,10/25/2020 2:04,49.78,-74.85,24.8,85,90,5.82,overcast clouds
+248,Usinsk,RU,10/25/2020 2:04,65.99,57.53,21.02,93,100,3.22,overcast clouds
+249,Talnakh,RU,10/25/2020 2:04,69.49,88.4,12.2,92,75,11.18,light snow
+250,Derzhavinsk,KZ,10/25/2020 2:04,51.1,66.32,43.79,93,100,22.15,overcast clouds
+251,Vestmannaeyjar,IS,10/25/2020 2:00,63.44,-20.27,45.01,68,100,25.03,overcast clouds
+252,Nazas,MX,10/25/2020 2:04,25.23,-104.13,74.61,28,0,3.13,clear sky
+253,Aasiaat,GL,10/25/2020 2:04,68.71,-52.87,15.73,95,88,10.98,overcast clouds
+254,Sinnamary,GF,10/25/2020 2:04,5.38,-52.95,81.09,79,97,11.01,overcast clouds
+255,San Cristobal,VE,10/25/2020 2:03,7.77,-72.22,66.63,83,21,1.32,few clouds
+256,Guarapari,BR,10/25/2020 2:00,-20.67,-40.5,75,98,100,4,overcast clouds
+257,Harrisburg,US,10/25/2020 2:03,40.27,-76.88,55.4,50,1,8.05,clear sky
+258,Nikolskoye,RU,10/25/2020 2:04,59.7,30.79,39.2,86,90,2.24,light intensity shower rain
+259,Novotroitskaya,RU,10/25/2020 2:04,45.33,41.53,53.6,54,0,8.95,clear sky
+260,Pochutla,MX,10/25/2020 2:04,15.74,-96.47,80.01,87,62,2.89,broken clouds
+261,Gat,IL,10/25/2020 2:04,31.61,34.76,79,44,75,2.24,broken clouds
+262,Cedar City,US,10/25/2020 1:59,37.68,-113.06,62.6,25,1,12.75,clear sky
+263,Saint-Augustin,CA,10/25/2020 2:04,51.23,-58.65,46.47,93,100,15.79,overcast clouds
+264,Los Llanos De Aridane,ES,10/25/2020 2:04,28.66,-17.92,69.8,73,90,6.93,overcast clouds
+265,Dillon,US,10/25/2020 2:04,34.42,-79.37,71.01,88,1,6.13,clear sky
+266,Nova Londrina,BR,10/25/2020 2:04,-22.77,-52.98,76.23,78,32,5.95,scattered clouds
+267,Mapiri,BO,10/25/2020 2:04,-15.25,-68.17,77.86,63,97,0.43,overcast clouds
+268,Tilichiki,RU,10/25/2020 2:04,60.47,166.1,34.47,86,20,0.89,few clouds
+269,Tocopilla,CL,10/25/2020 2:04,-22.09,-70.2,62.58,65,71,6.98,broken clouds
+270,Boyolangu,ID,10/25/2020 2:04,-8.12,111.89,83.43,70,92,5.75,overcast clouds
+271,Imbituba,BR,10/25/2020 2:04,-28.24,-48.67,73.4,88,75,5.82,broken clouds
+272,Igarka,RU,10/25/2020 2:04,67.47,86.58,9.88,95,100,12.64,overcast clouds
+273,Douentza,ML,10/25/2020 2:04,15,-2.95,79.02,16,17,5.03,few clouds
+274,Te Anau,NZ,10/25/2020 2:04,-45.42,167.72,59.83,86,100,2.51,overcast clouds
+275,Muyezerskiy,RU,10/25/2020 2:04,63.93,31.65,32.49,96,100,8.16,overcast clouds
+276,Bubaque,GW,10/25/2020 2:04,11.28,-15.83,82.85,80,0,11.16,clear sky
+277,Coahuayana,MX,10/25/2020 2:03,18.73,-103.68,80.73,90,62,2.46,broken clouds
+278,Cherskiy,RU,10/25/2020 2:04,68.75,161.3,18.57,94,12,5.37,few clouds
+279,Aleksandrov Gay,RU,10/25/2020 2:04,50.15,48.57,54.36,83,100,4.18,overcast clouds
+280,Luderitz,NA,10/25/2020 2:04,-26.65,15.16,62.19,63,29,16.13,scattered clouds
+281,Bodden Town,KY,10/25/2020 2:03,19.28,-81.25,82.4,74,40,10.29,scattered clouds
+282,High Prairie,CA,10/25/2020 2:01,55.43,-116.49,14,92,0,7.36,clear sky
+283,Ashland,US,10/25/2020 2:04,40.82,-82.27,42.8,75,90,4.7,overcast clouds
+284,Kodinsk,RU,10/25/2020 2:04,58.69,99.18,29.62,96,100,7.4,overcast clouds
+285,Fort-Shevchenko,KZ,10/25/2020 2:04,44.51,50.26,60.71,92,0,10.33,clear sky
+286,Maragogi,BR,10/25/2020 2:01,-9.01,-35.22,76.03,82,25,7.43,scattered clouds
+287,Hualmay,PE,10/25/2020 2:04,-11.1,-77.61,62.42,83,86,7.25,overcast clouds
+288,Mount Darwin,ZW,10/25/2020 2:04,-16.77,31.58,68.29,61,62,6.91,broken clouds
+289,Montefiascone,IT,10/25/2020 2:04,42.54,12.04,52,93,5,1.01,clear sky
+290,Bundaberg,AU,10/25/2020 2:04,-24.85,152.35,81,65,75,18.34,broken clouds
+291,Popondetta,PG,10/25/2020 2:04,-8.75,148.25,91.29,52,26,7.27,scattered clouds
+292,Misratah,LY,10/25/2020 2:04,32.38,15.09,70.3,68,46,6.46,scattered clouds
+293,Soyo,AO,10/25/2020 2:04,-6.13,12.37,76.73,83,100,7.09,overcast clouds
+294,Semnan,IR,10/25/2020 2:04,35.57,53.4,49.53,55,0,0.43,clear sky
+295,Puerto Del Rosario,ES,10/25/2020 2:04,28.5,-13.86,69.8,73,20,17.22,few clouds
+296,Tiznit,MA,10/25/2020 2:04,29.58,-9.5,63.27,56,98,0.67,overcast clouds
+297,Caohai,CN,10/25/2020 2:04,26.87,104.28,53.02,84,99,4.79,overcast clouds
+298,Vaasa,FI,10/25/2020 2:04,63.1,21.62,26.6,92,66,2.24,broken clouds
+299,Saldanha,ZA,10/25/2020 2:04,-33.01,17.94,58.41,92,0,4.14,clear sky
+300,Richmond,US,10/25/2020 2:00,37.55,-77.46,68,93,90,9.17,overcast clouds
+301,Yazoo City,US,10/25/2020 2:04,32.86,-90.41,54,100,90,5.55,overcast clouds
+302,Hofn,IS,10/25/2020 2:04,64.25,-15.21,44.53,81,54,18.99,broken clouds
+303,Hirara,JP,10/25/2020 2:04,24.8,125.28,77,60,40,14.99,scattered clouds
+304,Nishihara,JP,10/25/2020 2:04,26.18,127.76,77,41,20,13.87,few clouds
+305,Ereymentau,KZ,10/25/2020 2:04,51.62,73.1,29.08,97,100,25.7,overcast clouds
+306,Kirakira,SB,10/25/2020 2:01,-10.45,161.92,84.24,76,72,10.49,moderate rain
+307,Vila Velha,BR,10/25/2020 2:00,-20.33,-40.29,75,94,40,6.93,scattered clouds
+308,Ewa Beach,US,10/25/2020 2:04,21.32,-158.01,84.2,70,1,6.93,clear sky
+309,Sioux Lookout,CA,10/25/2020 2:03,50.1,-91.92,24.8,85,90,4.7,overcast clouds
+310,Sudogda,RU,10/25/2020 2:04,55.95,40.86,41.61,86,100,4.54,overcast clouds
+311,Lamar,US,10/25/2020 2:04,33.67,-95.58,53.01,87,90,4.7,overcast clouds
+312,Ust-Kuyga,RU,10/25/2020 2:04,70.02,135.6,7.16,88,0,9.66,clear sky
+313,Keetmanshoop,NA,10/25/2020 2:04,-26.58,18.13,67.78,27,53,9.06,broken clouds
+314,Bac Lieu,VN,10/25/2020 2:04,9.29,105.72,82.31,76,87,1.68,light rain
+315,Norman Wells,CA,10/25/2020 2:04,65.28,-126.83,21.2,85,75,4.7,broken clouds
+316,Mogadishu,SO,10/25/2020 2:04,2.04,45.34,79.54,85,100,8.81,overcast clouds
+317,Riyadh,SA,10/25/2020 2:00,24.69,46.72,59,35,0,2.35,clear sky
+318,Harper,LR,10/25/2020 2:04,4.38,-7.72,77.16,88,20,6.15,few clouds
+319,Mezen,RU,10/25/2020 2:04,65.85,44.24,24.04,98,90,3.89,overcast clouds
+320,Mackay,AU,10/25/2020 2:04,-21.15,149.2,86,58,40,13.87,scattered clouds
+321,Tashla,RU,10/25/2020 2:04,51.77,52.74,45.59,86,100,3,overcast clouds
+322,Hegang,CN,10/25/2020 2:03,47.4,130.37,43.45,61,0,15.08,clear sky
+323,Aldan,RU,10/25/2020 2:04,58.6,125.39,28.51,96,1,1.05,clear sky
+324,Praia,CV,10/25/2020 2:04,14.92,-23.51,78.8,83,100,12.75,overcast clouds
+325,Ara,IN,10/25/2020 2:01,25.57,84.67,68,77,0,3.36,mist
+326,Kendari,ID,10/25/2020 2:04,-3.94,122.5,88.02,62,100,2.68,light rain
+327,Atbasar,KZ,10/25/2020 2:01,51.8,68.33,38.53,91,100,20.89,overcast clouds
+328,Naliya,IN,10/25/2020 2:03,23.27,68.83,77.38,54,29,5.28,scattered clouds
+329,Antalaha,MG,10/25/2020 2:04,-14.9,50.28,70.47,84,48,6.29,light rain
+330,Sitka,US,10/25/2020 2:04,57.05,-135.33,41,44,90,3.36,overcast clouds
+331,Sant Julia De Loria,AD,10/25/2020 2:04,42.46,1.48,41,89,88,1.32,overcast clouds
+332,Hangu,CN,10/25/2020 2:04,39.25,117.79,59,38,92,6.71,overcast clouds
+333,Kavieng,PG,10/25/2020 2:04,-2.57,150.8,84.61,68,47,2.95,light rain
+334,Paredon,MX,10/25/2020 2:04,16.03,-93.87,81.59,66,97,15.55,overcast clouds
+335,Toora-Khem,RU,10/25/2020 2:04,52.47,96.11,22.44,84,100,13.04,overcast clouds
+336,Morant Bay,JM,10/25/2020 2:04,17.88,-76.41,82.4,88,75,13.87,broken clouds
+337,Timmins,CA,10/25/2020 2:00,48.47,-81.33,28.4,92,75,3.36,broken clouds
+338,Coquimbo,CL,10/25/2020 2:03,-29.95,-71.34,55.4,82,6,8.05,clear sky
+339,Darasun,RU,10/25/2020 2:04,51.67,114,32,81,99,6.71,overcast clouds
+340,Bowen,AU,10/25/2020 2:04,-20.02,148.23,87.8,48,0,8.05,clear sky
+341,Hasaki,JP,10/25/2020 2:04,35.73,140.83,68,48,40,8.05,scattered clouds
+342,Roma,US,10/25/2020 2:02,43.21,-75.46,44.6,70,90,11.41,overcast clouds
+343,Kattivakkam,IN,10/25/2020 2:04,13.22,80.32,82.4,88,40,2.24,mist
+344,Barcelona,ES,10/25/2020 2:04,41.39,2.16,64,76,0,8.05,clear sky
+345,Terrace,CA,10/25/2020 1:59,54.52,-128.6,33.8,40,20,13.87,few clouds
+346,Kupang,ID,10/25/2020 2:04,-10.17,123.58,91.4,59,20,11.41,few clouds
+347,Praia Da Vitoria,PT,10/25/2020 2:04,38.73,-27.07,64,88,20,15.5,few clouds
+348,Araouane,ML,10/25/2020 2:04,18.9,-3.53,85.71,14,0,9.46,clear sky
+349,Merauke,ID,10/25/2020 2:01,-8.47,140.33,85.15,68,9,8.7,light rain
+350,Nakambala,ZM,10/25/2020 2:04,-15.83,27.78,67.53,36,68,3.87,broken clouds
+351,Iquitos,PE,10/25/2020 2:04,-3.75,-73.25,77.22,77,5,1.52,clear sky
+352,Lethem,GY,10/25/2020 2:04,3.38,-59.8,81.23,68,75,7.09,broken clouds
+353,Fort Nelson,CA,10/25/2020 2:02,58.81,-122.7,26.6,49,40,2.57,scattered clouds
+354,Aksu,CN,10/25/2020 2:04,41.12,80.26,47.14,44,86,2.13,overcast clouds
+355,Ihosy,MG,10/25/2020 2:04,-22.4,46.12,62.2,88,65,8.03,broken clouds
+356,Chumikan,RU,10/25/2020 2:04,54.72,135.31,37.27,78,100,15.17,overcast clouds
+357,Zirovnice,CZ,10/25/2020 2:04,49.25,15.19,44.01,100,2,2.95,clear sky
+358,Mirabad,AF,10/25/2020 2:04,30.44,61.84,52.43,42,0,14.47,clear sky
+359,Cuiluan,CN,10/25/2020 2:04,47.72,128.65,41.68,65,0,7.18,clear sky
+360,Guantanamo,CU,10/25/2020 2:04,20.14,-75.21,82.4,83,75,1.66,broken clouds
+361,Cascais,PT,10/25/2020 2:04,38.7,-9.42,63,96,82,18.01,broken clouds
+362,San Nicola,IT,10/25/2020 2:04,40.61,8.99,59,82,11,10.29,few clouds
+363,Havoysund,NO,10/25/2020 2:04,71,24.66,37.4,86,75,21.92,broken clouds
+364,Beni Suef,EG,10/25/2020 2:01,29.07,31.1,63.48,73,0,5.3,clear sky
+365,Comodoro Rivadavia,AR,10/25/2020 2:04,-45.87,-67.5,60.8,67,0,8.05,clear sky
+366,Paamiut,GL,10/25/2020 2:01,61.99,-49.67,28.74,84,100,7.2,overcast clouds
+367,Koslan,RU,10/25/2020 2:04,63.46,48.9,22.46,98,90,4.9,overcast clouds
+368,Nebolchi,RU,10/25/2020 2:04,59.12,33.35,34.14,93,76,4.03,broken clouds
+369,Petropavlovsk-Kamchatskiy,RU,10/25/2020 2:04,53.05,158.65,42.8,81,90,20.13,shower sleet
+370,Gemlik,TR,10/25/2020 2:04,40.43,29.16,59,93,0,3.36,clear sky
+371,Villazon,BO,10/25/2020 2:04,-22.09,-65.59,55.83,54,39,4.14,scattered clouds
+372,Guerrero Negro,MX,10/25/2020 2:04,27.98,-114.06,66.67,83,0,14.81,clear sky
+373,Anadyr,RU,10/25/2020 2:04,64.75,177.48,23,100,90,4.47,overcast clouds
+374,Avera,US,10/25/2020 2:04,33.19,-82.53,73.4,88,75,6.93,light rain
+375,Noyabrsk,RU,10/25/2020 2:04,63.2,75.45,16.59,97,80,11.81,broken clouds
+376,Longyearbyen,SJ,10/25/2020 2:01,78.22,15.64,21.2,85,40,2.04,scattered clouds
+377,Abha,SA,10/25/2020 2:04,18.22,42.51,59,22,0,2.21,clear sky
+378,Bontang,ID,10/25/2020 2:04,0.13,117.5,82,74,100,2.86,overcast clouds
+379,Ovsyanka,RU,10/25/2020 2:04,55.96,92.55,26.6,73,40,6.71,scattered clouds
+380,San Patricio,US,10/25/2020 2:04,28.02,-97.52,70,60,20,4.7,few clouds
+381,Jelling,DK,10/25/2020 2:04,55.76,9.43,57.2,87,100,14.99,overcast clouds
+382,Steubenville,US,10/25/2020 2:00,40.37,-80.63,46.4,65,90,5.82,overcast clouds
+383,Kafanchan,NG,10/25/2020 2:04,9.58,8.3,68.07,63,100,1.21,overcast clouds
+384,Menongue,AO,10/25/2020 2:04,-14.66,17.69,63.43,53,37,1.72,scattered clouds
+385,Hajnowka,PL,10/25/2020 2:04,52.74,23.58,44.01,91,1,4.83,clear sky
+386,Chernyshevskiy,RU,10/25/2020 2:04,63.01,112.47,26.2,96,100,2.8,overcast clouds
+387,San Luis De La Paz,MX,10/25/2020 2:04,21.3,-100.52,57.83,74,20,7.18,few clouds
+388,Salamanca,ES,10/25/2020 2:04,40.83,-6,53.6,76,90,17.22,overcast clouds
+389,Gien,FR,10/25/2020 2:04,47.69,2.63,55,91,100,1.99,overcast clouds
+390,Xam Nua,LA,10/25/2020 2:04,20.42,104.04,71.17,44,73,2.06,broken clouds
+391,Prieska,ZA,10/25/2020 2:04,-29.66,22.75,71.4,22,4,1.25,clear sky
+392,Dunedin,NZ,10/25/2020 2:04,-45.87,170.5,69.01,53,100,23,overcast clouds
+393,Suluova,TR,10/25/2020 2:04,40.83,35.65,44.6,36,0,1.12,clear sky
+394,Yumen,CN,10/25/2020 2:04,40.28,97.2,41.97,63,87,5.82,overcast clouds
+395,Waingapu,ID,10/25/2020 2:04,-9.66,120.26,87.49,56,100,6.42,overcast clouds
+396,Monywa,MM,10/25/2020 2:04,22.12,95.13,79.57,84,99,3.8,overcast clouds
+397,Novyy Svit,UA,10/25/2020 2:04,47.81,38.02,57.22,69,100,8.19,light rain
+398,Ballarpur,IN,10/25/2020 2:04,19.83,79.35,75.45,77,1,1.97,clear sky
+399,Touros,BR,10/25/2020 2:04,-5.2,-35.46,77,88,40,3.36,scattered clouds
+400,North Bend,US,10/25/2020 2:04,43.41,-124.22,53.6,76,1,13.87,clear sky
+401,Mizan Teferi,ET,10/25/2020 2:04,6.98,35.58,61.23,83,0,3.22,clear sky
+402,Port Lincoln,AU,10/25/2020 2:04,-34.73,135.87,55.29,58,42,17.09,scattered clouds
+403,Eregli,TR,10/25/2020 2:04,37.51,34.05,57.11,35,76,3.33,broken clouds
+404,Ayan,RU,10/25/2020 2:04,56.45,138.17,38.17,75,100,12.68,overcast clouds
+405,Teya,RU,10/25/2020 2:04,60.38,92.63,25.36,96,99,4.52,light snow
+406,Altus,US,10/25/2020 2:04,34.64,-99.33,50,71,1,10.29,clear sky
+407,Neyshabur,IR,10/25/2020 2:04,36.21,58.8,44.08,59,0,0.4,clear sky
+408,Zharkovskiy,RU,10/25/2020 2:04,55.85,32.27,43.84,94,100,4.43,overcast clouds
+409,Kaitangata,NZ,10/25/2020 2:01,-46.28,169.85,66.63,61,100,8.79,overcast clouds
+410,Conceicao Do Araguaia,BR,10/25/2020 2:04,-8.26,-49.26,74.19,89,100,3.71,moderate rain
+411,Presidencia Roque Saenz Pena,AR,10/25/2020 2:04,-26.79,-60.44,77.7,62,1,5.28,clear sky
+412,Gravelbourg,CA,10/25/2020 2:04,49.88,-106.55,12.07,92,100,8.52,overcast clouds
+413,Gijon,ES,10/25/2020 2:04,43.54,-5.66,64,86,100,1.01,overcast clouds
+414,Kidal,ML,10/25/2020 2:01,18.44,1.41,76.42,17,0,9.31,clear sky
+415,Kisangani,CD,10/25/2020 2:04,0.52,25.2,70.86,97,100,1.74,moderate rain
+416,Yar-Sale,RU,10/25/2020 2:03,66.83,70.83,15.33,96,8,6.93,clear sky
+417,Porbandar,IN,10/25/2020 2:04,21.64,69.61,75.2,78,40,4.9,scattered clouds
+418,Pimentel,PE,10/25/2020 2:04,-6.84,-79.93,62.33,86,90,13.35,overcast clouds
+419,Kalmunai,LK,10/25/2020 2:04,7.42,81.82,81.68,70,100,1.63,overcast clouds
+420,Manta,EC,10/25/2020 2:01,-0.95,-80.73,73.4,78,90,5.82,overcast clouds
+421,Simbahan,PH,10/25/2020 2:04,6.3,120.58,82,78,100,3.24,heavy intensity rain
+422,Yeppoon,AU,10/25/2020 2:04,-23.13,150.73,77,88,75,10.29,light rain
+423,Salinopolis,BR,10/25/2020 2:00,-0.61,-47.36,79,84,0,10.29,clear sky
+424,Kamen-Rybolov,RU,10/25/2020 2:04,44.75,132.04,46.49,55,0,15.66,clear sky
+425,Moen,NO,10/25/2020 2:04,69.13,18.61,30,100,85,3.09,overcast clouds
+426,Jatara,IN,10/25/2020 2:04,25.02,79.05,74.08,49,0,2.44,clear sky
+427,Baykit,RU,10/25/2020 2:04,61.67,96.37,26.02,95,100,2.53,light snow
+428,Boksitogorsk,RU,10/25/2020 2:04,59.47,33.85,33.37,94,90,4.21,overcast clouds
+429,Brusque,BR,10/25/2020 2:04,-27.1,-48.92,73.4,88,75,1.48,broken clouds
+430,Mayo,US,10/25/2020 2:00,38.89,-76.51,63,77,75,12.75,broken clouds
+431,Nanortalik,GL,10/25/2020 2:04,60.14,-45.24,32.72,89,100,3.83,overcast clouds
+432,Taltal,CL,10/25/2020 2:04,-25.4,-70.48,58.01,73,100,3.69,overcast clouds
+433,Labytnangi,RU,10/25/2020 2:04,66.66,66.42,8.73,95,85,8.32,overcast clouds
+434,Kutum,SD,10/25/2020 2:04,14.2,24.67,68.88,26,56,12.82,broken clouds
+435,Moncton,CA,10/25/2020 2:04,46.12,-64.8,53.6,93,90,10.29,overcast clouds
+436,Sharjah,AE,10/25/2020 2:01,25.36,55.4,77,43,0,3.36,clear sky
+437,Zilair,RU,10/25/2020 2:04,52.23,57.44,43.59,98,99,4.54,overcast clouds
+438,Sedhiou,SN,10/25/2020 2:04,12.71,-15.56,76.77,81,0,4.61,clear sky
+439,Qena,EG,10/25/2020 2:04,26.16,32.72,71.6,49,0,7.36,clear sky
+440,Lasa,IT,10/25/2020 2:04,46.62,10.7,46,93,5,3.36,clear sky
+441,Elat,IL,10/25/2020 2:04,29.56,34.95,77,27,0,6.93,clear sky
+442,Road Town,VG,10/25/2020 2:04,18.42,-64.62,82.99,83,88,17,overcast clouds
+443,Chistogorskiy,RU,10/25/2020 2:04,53.98,87.38,25.63,91,79,7.61,broken clouds
+444,Moose Factory,CA,10/25/2020 2:04,51.26,-80.61,26.6,92,75,5.82,broken clouds
+445,Tual,ID,10/25/2020 2:04,-5.67,132.75,82.85,74,29,5.99,scattered clouds
+446,Clyde River,CA,10/25/2020 2:03,70.47,-68.59,19.4,79,90,9.17,overcast clouds
+447,Chupa,RU,10/25/2020 2:04,66.27,33.05,24.58,97,6,4.21,clear sky
+448,Primorsk,UA,10/25/2020 2:04,46.73,36.34,59.97,72,100,9.17,light rain
+449,Kashan,IR,10/25/2020 2:04,33.98,51.44,52.92,48,0,0.4,clear sky
+450,Nome,US,10/25/2020 2:04,64.5,-165.41,37.99,86,90,9.17,overcast clouds
+451,Segou,ML,10/25/2020 2:04,13.43,-6.22,77.79,17,16,6.93,few clouds
+452,Bogorodskoye,RU,10/25/2020 2:04,56.55,37.88,37.85,92,100,3.94,overcast clouds
+453,Bilma,NE,10/25/2020 2:04,18.69,12.92,71.83,21,0,13,clear sky
+454,Port Hardy,CA,10/25/2020 2:00,50.7,-127.42,44.6,48,5,12.75,clear sky
+455,Hovd,MN,10/25/2020 2:01,48.01,91.64,30.7,69,0,5.3,clear sky
+456,Chernushka,RU,10/25/2020 2:04,56.51,56.08,36.37,95,98,6.38,overcast clouds
+457,Aleksandriya,RU,10/25/2020 2:04,45.09,43.25,57.22,36,0,5.17,clear sky
+458,Salamiyah,SY,10/25/2020 2:04,35.01,37.05,66.38,26,14,8.99,few clouds
+459,Plouzane,FR,10/25/2020 2:04,48.38,-4.62,53.6,81,20,18.34,few clouds
+460,Yantzaza,EC,10/25/2020 2:04,-3.83,-78.76,67.53,83,85,1.61,moderate rain
+461,Solnechnyy,RU,10/25/2020 2:00,50.72,136.63,37.74,88,99,17.25,overcast clouds
+462,Taoudenni,ML,10/25/2020 2:04,22.68,-3.98,85.19,14,3,10.29,clear sky
+463,Pingliang,CN,10/25/2020 2:04,35.54,106.69,56.26,56,75,1.36,broken clouds
+464,Prince Rupert,CA,10/25/2020 2:04,54.32,-130.32,37.4,59,1,3.47,clear sky
+465,Lagos,NG,10/25/2020 2:02,6.58,3.75,77.47,89,83,4.38,broken clouds
+466,Coromandel,BR,10/25/2020 2:04,-18.47,-47.2,64.92,99,93,6.35,heavy intensity rain
+467,Filadelfia,US,10/25/2020 2:03,39.95,-75.16,55.99,66,75,11.41,broken clouds
+468,Palmas,BR,10/25/2020 2:04,-10.21,-48.36,77,83,40,2.24,scattered clouds
+469,Puerto Escondido,MX,10/25/2020 2:01,15.85,-97.07,81.19,84,90,5.55,light rain
+470,Ossora,RU,10/25/2020 2:04,59.24,163.07,41.77,77,100,9.91,overcast clouds
+471,Matara,LK,10/25/2020 2:01,5.95,80.54,80.42,81,94,6.85,overcast clouds
+472,Vermillion,US,10/25/2020 2:01,42.78,-96.93,28,92,90,9.17,overcast clouds
+473,Ust-Maya,RU,10/25/2020 2:04,60.42,134.53,19.22,94,48,4.21,scattered clouds
+474,Valparaiso,CL,10/25/2020 2:00,-33.04,-71.63,55.4,100,90,6.93,overcast clouds
+475,Marrakesh,MA,10/25/2020 2:00,31.63,-8.01,59,77,0,3.36,clear sky
+476,Ouesso,CG,10/25/2020 2:04,1.61,16.05,69.85,97,100,0.83,overcast clouds
+477,Vila Franca Do Campo,PT,10/25/2020 2:04,37.72,-25.43,64.4,88,40,5.82,scattered clouds
+478,Maceio,BR,10/25/2020 2:00,-9.67,-35.74,73.4,94,0,3.36,clear sky
+479,The Pas,CA,10/25/2020 2:04,53.83,-101.25,24.8,53,90,14.99,light snow
+480,Kulachi,PK,10/25/2020 2:04,31.93,70.46,67.42,25,0,4.65,clear sky
+481,Port-Gentil,GA,10/25/2020 2:04,-0.72,8.78,78.33,84,100,14.52,overcast clouds
+482,Guiuan,PH,10/25/2020 2:04,11.03,125.72,82.49,78,100,13.56,moderate rain
+483,Celestun,MX,10/25/2020 2:04,20.87,-90.4,80.62,79,40,13.53,scattered clouds
+484,Tautira,PF,10/25/2020 2:04,-17.73,-149.15,80.6,74,75,4.7,shower rain
+485,Korla,CN,10/25/2020 2:04,41.76,86.15,48.88,46,0,9.98,clear sky
+486,Ahipara,NZ,10/25/2020 2:04,-35.17,173.17,68.22,64,45,6.85,scattered clouds
+487,Ust-Tsilma,RU,10/25/2020 2:04,65.44,52.15,25.14,98,100,4.21,light snow
+488,Phalaborwa,ZA,10/25/2020 2:01,-23.94,31.14,64.4,93,29,3.36,scattered clouds
+489,Sao Joao Da Barra,BR,10/25/2020 2:04,-21.64,-41.05,72.32,93,100,16.91,heavy intensity rain
+490,Baruun-Urt,MN,10/25/2020 2:04,46.68,113.28,41.43,60,2,5.53,clear sky
+491,Kalakamati,BW,10/25/2020 2:04,-20.59,27.31,68.29,37,0,8.34,clear sky
+492,Marsabit,KE,10/25/2020 2:04,2.33,37.99,65.25,88,78,19.93,broken clouds
+493,Shimoda,JP,10/25/2020 2:03,34.67,138.95,64.4,59,75,13.87,broken clouds
+494,Manokwari,ID,10/25/2020 2:04,-0.87,134.08,84.2,67,91,2.57,overcast clouds
+495,Fayaoue,NC,10/25/2020 2:04,-20.65,166.53,77.13,76,7,12.1,clear sky
+496,Severnyy,RU,10/25/2020 2:04,50.68,36.55,50,93,36,11.18,mist
+497,Portland,US,10/25/2020 2:02,45.52,-122.68,46.99,57,96,1.99,overcast clouds
+498,Mandalgovi,MN,10/25/2020 2:04,45.76,106.27,40.62,56,59,6.55,broken clouds
+499,Tongren,CN,10/25/2020 2:04,27.72,109.19,60.06,69,93,0.63,overcast clouds
+500,Qiongshan,CN,10/25/2020 2:04,20.01,110.35,77,100,75,13.42,broken clouds
+501,Sonta,RS,10/25/2020 2:04,45.59,19.1,55.4,93,90,4.7,mist
+502,Gornorechenskiy,RU,10/25/2020 2:04,44.26,135.11,42.67,63,1,18.68,clear sky
+503,Kawalu,ID,10/25/2020 2:01,-7.38,108.21,76.87,85,100,1.57,light rain
+504,Kiruna,SE,10/25/2020 2:04,67.86,20.23,24.8,92,48,2.24,scattered clouds
+505,George,ZA,10/25/2020 2:04,-33.96,22.46,62.6,100,8,6.93,drizzle
+506,Burnie,AU,10/25/2020 2:04,-41.07,145.92,54,39,0,11.01,clear sky
+507,Thohoyandou,ZA,10/25/2020 2:04,-22.95,30.48,62.28,61,49,2.04,scattered clouds
+508,Bathsheba,BB,10/25/2020 2:04,13.22,-59.52,82.4,74,75,25.28,broken clouds
+509,Mirnyy,RU,10/25/2020 2:05,62.54,113.96,23,85,40,4.47,scattered clouds
+510,Ojo Caliente,MX,10/25/2020 2:05,22.57,-102.25,71.6,26,20,11.41,few clouds
+511,Itaocara,BR,10/25/2020 2:05,-21.67,-42.08,69.89,92,100,1.59,overcast clouds
+512,Hilton Head Island,US,10/25/2020 2:05,32.22,-80.75,73.99,94,1,6.67,clear sky
+513,Cap Malheureux,MU,10/25/2020 2:05,-19.98,57.61,69.01,90,50,7,light rain
+514,Natal,BR,10/25/2020 2:04,-5.79,-35.21,77,88,40,3.36,scattered clouds
+515,Hammerfest,NO,10/25/2020 2:05,70.66,23.68,37.4,86,75,21.92,broken clouds
+516,Snizhne,UA,10/25/2020 2:00,48.03,38.77,53.08,94,100,6.69,light rain
+517,Pemangkat,ID,10/25/2020 2:05,1.17,108.97,83.35,72,41,5.53,scattered clouds
+518,Jiaojiang,CN,10/25/2020 2:05,28.68,121.44,68,51,1,2.95,clear sky
+519,Palmer,US,10/25/2020 2:05,42.16,-72.33,53.6,62,40,11.41,scattered clouds
+520,Trelew,AR,10/25/2020 2:02,-43.25,-65.31,60.82,48,23,9.93,few clouds
+521,Polson,US,10/25/2020 2:05,47.69,-114.16,17.6,52,1,11.41,clear sky
+522,Tuy Hoa,VN,10/25/2020 2:05,13.08,109.3,80.64,75,99,5.75,overcast clouds
+523,Tsuruoka,JP,10/25/2020 2:00,38.72,139.82,59,72,75,27.51,light intensity shower rain
+524,Seoul,KR,10/25/2020 2:05,37.57,126.98,59,62,1,5.23,clear sky
+525,Thunder Bay,CA,10/25/2020 2:02,48.4,-89.32,28.99,79,90,5.82,overcast clouds
+526,Rozkishne,UA,10/25/2020 2:04,48.51,39.3,56.05,88,80,8.3,light rain
+527,Mecca,SA,10/25/2020 2:02,21.43,39.83,73.85,53,0,3.33,clear sky
+528,Shenjiamen,CN,10/25/2020 2:05,29.96,122.3,64.8,57,2,5.57,clear sky
+529,Manzhouli,CN,10/25/2020 2:05,49.6,117.43,38.75,70,71,4.34,broken clouds
+530,Ancud,CL,10/25/2020 2:05,-41.87,-73.82,44.01,93,20,4.7,few clouds
+531,Saint-Georges,GD,10/25/2020 2:05,12.06,-61.75,82.4,78,40,11.41,scattered clouds
+532,Ambovombe,MG,10/25/2020 2:05,-25.17,46.08,68.04,84,27,6.31,scattered clouds
+533,Yenagoa,NG,10/25/2020 2:05,4.92,6.26,75.65,92,100,3.42,overcast clouds
+534,Trairi,BR,10/25/2020 2:00,-3.28,-39.27,79.36,81,8,12.21,clear sky
+535,Ha Tinh,VN,10/25/2020 2:05,18.33,105.9,71.74,73,100,8.46,overcast clouds
+536,Iqaluit,CA,10/25/2020 2:05,63.75,-68.51,26.6,79,75,6.93,light snow
+537,Balykshi,KZ,10/25/2020 2:05,47.07,51.87,53.6,100,40,8.95,mist
+538,Udachnyy,RU,10/25/2020 2:05,66.42,112.4,6.8,92,0,6.71,clear sky
+539,Inuvik,CA,10/25/2020 2:05,68.35,-133.72,24.8,62,40,5.82,scattered clouds
+540,Bolobo,CD,10/25/2020 2:05,-2.17,16.23,72.43,95,95,1.34,light rain
+541,Redcar,GB,10/25/2020 2:05,54.62,-1.06,45,88,68,8.99,broken clouds
+542,Batagay-Alyta,RU,10/25/2020 2:05,67.8,130.41,12.63,87,100,4.83,overcast clouds
+543,Bac Ninh,VN,10/25/2020 2:00,21.18,106.05,69.8,77,75,6.93,broken clouds
+544,Nantucket,US,10/25/2020 2:05,41.28,-70.1,59,83,90,11.41,overcast clouds
+545,Vestmanna,FO,10/25/2020 2:05,62.16,-7.17,46.4,81,96,20.8,light rain
+546,Copala,MX,10/25/2020 2:05,16.65,-98.98,80.62,86,100,7.27,overcast clouds
+547,Constitucion,CL,10/25/2020 2:05,-35.33,-72.42,52.86,86,89,9.8,light rain
+548,Pokrovskoye,RU,10/25/2020 2:05,47.42,38.9,60.17,89,100,7.87,light rain
+549,Cururupu,BR,10/25/2020 2:05,-1.83,-44.87,75.38,90,14,3.31,few clouds
+550,Miandrivazo,MG,10/25/2020 2:05,-19.52,45.47,76.62,62,87,2.01,overcast clouds
+551,Eyl,SO,10/25/2020 2:05,7.98,49.82,77.27,66,48,1.99,scattered clouds
+552,Atasu,KZ,10/25/2020 2:05,48.68,71.64,33.3,72,100,18.23,overcast clouds
+553,Bo Phloi,TH,10/25/2020 2:05,14.32,99.52,78.64,66,54,1.83,broken clouds
+554,Raton,US,10/25/2020 2:03,36.9,-104.44,66.2,8,1,19.46,clear sky
+555,Puerto Lumbreras,ES,10/25/2020 2:05,37.56,-1.81,54,73,0,3.4,clear sky
+556,Stornoway,GB,10/25/2020 2:05,58.21,-6.39,46.4,81,93,31.09,overcast clouds
+557,Buenos Aires,AR,10/25/2020 2:01,-34.61,-58.38,66,100,90,12.75,mist
+558,Veraval,IN,10/25/2020 2:05,20.9,70.37,80.38,60,41,4.97,scattered clouds
+559,Port Elizabeth,ZA,10/25/2020 2:05,-33.92,25.57,60.8,93,0,4.7,clear sky
+560,Volksrust,ZA,10/25/2020 2:05,-27.37,29.88,57.88,49,0,3,clear sky
+561,Asfi,MA,10/25/2020 2:05,32.3,-9.24,62.98,82,0,13.18,clear sky
+562,Iquique,CL,10/25/2020 2:01,-20.22,-70.14,62.6,82,90,13.87,overcast clouds
+563,Zhezkazgan,KZ,10/25/2020 2:05,47.8,67.71,36.37,65,96,16.06,overcast clouds
+564,Okhotsk,RU,10/25/2020 2:05,59.38,143.3,39.76,82,100,16.37,overcast clouds
+565,Boromo,BF,10/25/2020 2:05,11.75,-2.93,77.02,27,94,1.43,overcast clouds
+566,Tessalit,ML,10/25/2020 2:05,20.2,1.01,77.77,17,0,7.72,clear sky
+567,Necochea,AR,10/25/2020 2:05,-38.55,-58.74,57.99,90,3,8.99,clear sky
+568,Padang,ID,10/25/2020 2:05,-0.95,100.35,82.4,68,80,2.19,broken clouds
+569,Blagodatnoye,RU,10/25/2020 2:05,45.4,42.59,53.6,54,0,8.95,clear sky
+570,Atambua,ID,10/25/2020 2:05,-9.11,124.89,90.07,48,84,4.97,broken clouds
+571,La Ronge,CA,10/25/2020 2:05,55.1,-105.28,24.8,58,90,9.17,light snow
+572,San Ignacio,BZ,10/25/2020 2:05,17.16,-89.07,75.99,100,75,4.12,broken clouds
+573,Vrangel,RU,10/25/2020 2:05,42.73,133.08,48.43,56,0,16.2,clear sky
+574,Ubata,BR,10/25/2020 2:05,-14.21,-39.52,69.46,97,94,1.34,overcast clouds
+575,Auki,SB,10/25/2020 2:05,-8.77,160.7,86.09,71,18,3.69,light rain
+576,Xining,CN,10/25/2020 2:05,36.62,101.77,45.84,57,100,2.8,overcast clouds
+577,Asau,RO,10/25/2020 2:05,46.43,26.4,52,98,100,1.95,light rain
+578,Puerto Asis,CO,10/25/2020 2:05,0.51,-76.5,75.72,79,0,2.26,clear sky
+579,Tokur,RU,10/25/2020 2:05,53.13,132.9,32.59,92,100,7.58,overcast clouds
+580,Savinskiy,RU,10/25/2020 2:05,62.93,40.14,30.15,98,96,6.87,overcast clouds
+581,Jipijapa,EC,10/25/2020 2:05,-1.33,-80.58,73.4,78,90,5.82,overcast clouds
+582,Berbera,SO,10/25/2020 2:05,10.44,45.01,80.6,62,29,4.38,scattered clouds
+583,Zhuhai,CN,10/25/2020 2:01,22.28,113.57,80.01,69,20,10.29,few clouds
+584,Kalengwa,ZM,10/25/2020 2:05,-13.47,25,62.74,35,100,5.01,overcast clouds
+585,Jacareacanga,BR,10/25/2020 2:05,-6.22,-57.75,72.39,98,60,1.34,broken clouds
+586,Ahuimanu,US,10/25/2020 2:05,21.44,-157.84,87.8,55,40,10.29,scattered clouds
+587,Mersing,MY,10/25/2020 2:05,2.43,103.84,73.4,100,40,4.03,moderate rain
+588,Kurchum,KZ,10/25/2020 2:05,48.57,83.65,30.56,79,40,7,scattered clouds
+589,Alihe,CN,10/25/2020 2:05,50.57,123.72,41,64,0,3.13,clear sky
+590,Yerofey Pavlovich,RU,10/25/2020 2:05,53.97,121.97,38.5,73,0,1.16,clear sky
+591,Meulaboh,ID,10/25/2020 2:00,4.14,96.13,74.26,94,100,6.62,overcast clouds
